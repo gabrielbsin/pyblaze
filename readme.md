@@ -1,6 +1,6 @@
 # _PyBlaze_
 
-<img src="https://github.com/cleitonleonel/pyblaze/blob/master/logo-blaze.png?raw=true" alt="pyblaze" width="200"/>
+<img src="https://github.com/cleitonleonel/pyblaze/blob/master/logo-blaze.svg?raw=true" alt="pyblaze" width="200"/>
 
 Pyblaze possibilita o acesso a api do site [blaze](https://blaze.com) utilizando python, retornando os últimos resultados de crashs e doubles. 
 # Instalação e uso:
